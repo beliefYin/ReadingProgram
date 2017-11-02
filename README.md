@@ -9,6 +9,6 @@ ReadingProgram是参照[hoosin](https://github.com/hoosin)的[天天锻炼计划
 ## 三、目录
 		.
 		├── recode                … 记录
-		├── booklist.md			  … 书单
+		├── booklist.md		  … 书单
 		└── README.md             … 说明文档
 
