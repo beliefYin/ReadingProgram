@@ -2,10 +2,9 @@
 书名|开始日期
 :--:|:--:|
 C++ Primer(英文版)|2017-11-2
-
+Effective C++|2017-11-8
 
 ## 想要看
-- effective c++
 - more efective c++
 
 
